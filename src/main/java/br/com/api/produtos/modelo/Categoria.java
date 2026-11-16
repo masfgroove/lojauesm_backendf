@@ -3,7 +3,7 @@ package br.com.api.produtos.modelo;
 import jakarta.persistence.*;
 
 @Entity
-@Table(name = "lb_categorias")
+@Table(name = "uesm_categorias")
 public class Categoria {
 
     @Id

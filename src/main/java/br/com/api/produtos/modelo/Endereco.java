@@ -3,7 +3,7 @@ package br.com.api.produtos.modelo;
 import jakarta.persistence.*;
 
 @Entity
-@Table(name = "lb_enderecos")
+@Table(name = "uesm_enderecos")
 public class Endereco {
 
     @Id

@@ -9,6 +9,7 @@ import java.util.List;
 
 @Service
 public class CategoriaServico {
+    
 
     @Autowired
     private CategoriaRepositorio repositorio;
